@@ -1,0 +1,23 @@
+
+
+os códigos foram desenvolvidos na linguagem C e com o processador de texto gedit.
+
+
+
+para compila os códigos:
+
+gcc nome.c -o nome
+
+
+para executar:
+
+./nome
+
+
+
+
+
+
+obs:
+
+todos os códigos geram um arquivo tipo .txt com os tempos de execução do algoritmo.
